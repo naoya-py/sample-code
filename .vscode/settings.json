@@ -1,0 +1,10 @@
+{
+    "auto-rename-tag.activationOnLanguage": [
+
+
+        "*"
+    ],
+    "gitlens.advanced.externalDiffTool": "",
+    "geminicodeassist.beta.enableGeneratedCodeDocumentationView": false,
+    "geminicodeassist.codeGenerationPaneViewEnabled": false
+}
